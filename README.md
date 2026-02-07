@@ -1,4 +1,4 @@
-A hands-on comparison of one model from each major Keras application family (35 models total in the original sweep — here we selected one representative from each family) trained and tested on a Brain Tumor MRI dataset. The goal: see how each pretrained Keras model behaves for this medical imaging task, compare qualitative outputs (segmentation / single predictions) and quantitative metrics (accuracy / loss / other relevant scores), and identify which models give the best trade-off between performance and cost.
+A hands-on comparison of one model from each major Keras application family (35 models total in the original sweep here we selected one representative from each family) trained and tested on a Brain Tumor MRI dataset. The goal: see how each pretrained Keras model behaves for this medical imaging task, compare qualitative outputs (segmentation / single predictions) and quantitative metrics (accuracy / loss / other relevant scores), and identify which models give the best trade-off between performance and cost.
 
 ---
 
